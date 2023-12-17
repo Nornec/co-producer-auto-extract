@@ -1,0 +1,1 @@
+This Ruby script extracts all samples from a Co-producer sample pack, renames it, and puts it into an appropriate tempo directory. The script ensures that repeat file names will not be overwritten and enumerates them. To run this, you need the following ruby gems: `rubyzip` 
